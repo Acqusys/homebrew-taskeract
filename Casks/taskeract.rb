@@ -8,6 +8,7 @@ cask "taskeract" do
   homepage "https://taskeract.dev"
 
   depends_on arch: :arm64
+  depends_on formula: "nss"
 
   app "Taskeract.app"
 
