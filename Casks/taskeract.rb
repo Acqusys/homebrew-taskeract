@@ -1,6 +1,6 @@
 cask "taskeract" do
-  version "1.10.19"
-  sha256 "4739f485d26cb0a0ef5035203899ee411bf964a422d821310064bc930450f411"
+  version "2.0.0"
+  sha256 "ed59d28ce619c5999c701ff37ffdf31f4d27a26bfe6990f03fa407ae0cd67b16"
 
   url "https://f001.backblazeb2.com/file/taskeract-pub/releases/v#{version}/Taskeract_#{version}_aarch64.dmg"
   name "Taskeract"
